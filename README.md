@@ -5,7 +5,7 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Hello Micorverse</b></h3>
+  <h3><b>Hello Microverse</b></h3>
 
 </div>
 
@@ -14,6 +14,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+- [📁 Files](#files)
 - [👥 Authors](#authors)
 
 <!-- PROJECT DESCRIPTION -->
@@ -28,35 +29,41 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-
   <ul>
     <li>Html</li>
     <li>Css</li>
     <li>Git</li>
     <li>Github</li>
   </ul>
-</details>
+
+<!-- FILES -->
+
+# 📁 [FILES] <a name="files"></a>
+
+  [index.html](https://github.com/chelobotix/Hello-Micorverse/blob/feature_1/index.html)
+  [style.css](https://github.com/chelobotix/Hello-Micorverse/blob/feature_1/style.css)
+  [.gitignore](https://github.com/chelobotix/Hello-Micorverse/blob/feature_1/.gitignore)
+
+
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+# 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
 👤 **Author1**
+: Marcelo Alarcon Barrenechea
 
+🇧🇴 Bolivia 💓
 - GitHub: [@chelobotix](https://github.com/chelobotix)
+- Linkedin: [Marcelo Alarcon](https://www.linkedin.com/in/marceloalarconb/)
 
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project pleae let me know 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
